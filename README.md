@@ -3,7 +3,7 @@
 
 Passionate Frontend Engineer with **3 years of experience** in developing scalable and high-performance web applications. Skilled in **React.js, Next.js, TypeScript, and Redux**, with expertise in building micro-frontend architectures and optimizing user experiences.  
 
-At **Cognizant Technology Solutions**, I contributed to the **Protection Plans feature for Verizon**, enhancing customer engagement by **30%**. I specialize in:
+At **Cognizant Technology Solutions**, I contributed in making React Components, enhancing customer engagement by **30%**. I specialize in:
 - **State management**: Redux, Redux Thunk, Redux Persist  
 - **Performance optimization**: Lazy loading, code splitting (reduced First Contentful Paint from **3.2s to 1.8s**)  
 - **API optimization**: Axios interceptors for centralized request/response management  
